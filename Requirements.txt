@@ -15,7 +15,7 @@ citipy==0.0.5
 Click==7.0
 cloudpickle==0.5.3
 constantly==15.1.0
-cryptography==2.3
+cryptography==3.2
 cryptography-vectors==2.3
 cycler==0.10.0
 decorator==4.3.0
